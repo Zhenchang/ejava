@@ -1,2 +1,2 @@
-# ejava2016
+# ejava
 These are the project for course Enterprise Java.
